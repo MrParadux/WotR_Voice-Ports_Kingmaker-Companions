@@ -39,6 +39,6 @@ If you encounter any issues like low or high volume, a lack of barks, too many r
 Similarly, if you have ideas or suggestions, please also post them in the issues section as an enhancement.
 
 ## Thanks
-The guide for [Creating Custom SoundBanks](https://github.com/WittleWolfie/OwlcatModdingWiki/wiki/Creating-Custom-SoundBanks) and the [OwlcatNuGetTemplates](https://github.com/xADDBx/OwlcatNuGetTemplates) by DarthParametric and ADDB made this project even approachable in the first place.
+The guide for [Creating Custom SoundBanks](https://github.com/WittleWolfie/OwlcatModdingWiki/wiki/Creating-Custom-SoundBanks) by DarthParametric and the [OwlcatNuGetTemplates](https://github.com/xADDBx/OwlcatNuGetTemplates) by ADDB made this project even approachable in the first place.
 
-Additionally everyone in the #mod-dev-technical channel of the Owlcat Discord server were very patient and welcoming in answering all my uninformed questions, especially DarthParametric.
+Additionally everyone in the #mod-dev-technical channel of the Owlcat Discord server were very patient and welcoming in answering all my uninformed questions, especially DarthParametric, ADDB and CascadingDragon.
