@@ -8,5 +8,5 @@
   "AssemblyName": "VoicePortsKingmaker.dll",
   "EntryMethod": "VoicePortsKingmaker.Main.Load",
   "HomePage": "https://github.com/MrParadux/WotR_Voice-Ports_Kingmaker-Companions",
-  "Repository": "https://raw.githubusercontent.com/MrParadux/WotR_Voice-Ports_Kingmaker-Companions/refs/heads/main/Repository.json?token=GHSAT0AAAAAADZXX3XJERSNUGG2XHTZLN3C2OT62GA"
+  "Repository": "https://raw.githubusercontent.com/MrParadux/WotR_Voice-Ports_Kingmaker-Companions/refs/heads/main/Repository.json"
 }
