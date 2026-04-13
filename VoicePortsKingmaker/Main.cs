@@ -30,7 +30,7 @@ public static class Main
         new VoiceDefinition("Jaethal", "VoicePortJaethal", VoiceGender.Female, "d20a5fbeda4e423184474d3923e150aa"),
         new VoiceDefinition("Jubilost", "VoicePortJubilost", VoiceGender.Male, "ea1f5d8f67f84dfbaa65b3447becb83d"),
         new VoiceDefinition("Kalikke", "VoicePortKalikke", VoiceGender.Female, "146b75c0fc6d4eb9be0e698d982c41b5"),
-        new VoiceDefinition("Kanerah", "Kanerah", VoiceGender.Female, "30ee64531d3a4be69a75015c9f7372a1"),
+        new VoiceDefinition("Kanerah", "VoicePortKanerah", VoiceGender.Female, "30ee64531d3a4be69a75015c9f7372a1"),
         new VoiceDefinition("Linzi", "VoicePortLinzi", VoiceGender.Female, "7f4f764aa3ed4e07aefa1c21dc94f320"),
         new VoiceDefinition("Maegar Varn", "VoicePortVarn", VoiceGender.Male, "00fe0dad37e54bf4be9d3d5a870eda58"),
         new VoiceDefinition("Nok-Nok", "VoicePortNokNok", VoiceGender.Male, "b9db4bf8ea2048dab5fef024c222487f"),
